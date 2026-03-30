@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello 👋, I'm Chayanon (Non)
 
-<!--
-**ChayanonMam/ChayanonMam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>
+    🎓 **Freshman** at **KMUTNB Prachinburi** | Information Engineering and Network (**INE**)
+  </li>
+  <li>
+    🚀 **Currently Focus:** Exploring Network Infrastructure, Cybersecurity, and Virtualization.
+  </li>
+  <li>
+    ⚡ **Fun fact:** I bridge the gap between **Logic (Engineering)** and **Creativity (Digital Art)**!
+  </li>
+</ul>
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
+<img src="https://skillicons.dev/icons?i=python,linux,bash,html,css,github,vscode" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Interests & Learning
+`Networking` `Cybersecurity` `Virtualization` `Cloud Computing`
