@@ -2,13 +2,13 @@
 
 <ul>
   <li>
-    🎓 **Freshman** at **KMUTNB Prachinburi** | Information Engineering and Network (**INE**)
+    🎓 Freshman at KMUTNB Prachinburi | Information Engineering and Network (INE)
   </li>
   <li>
-    🚀 **Currently Focus:** Exploring Network Infrastructure, Cybersecurity, and Virtualization.
+    🚀 Currently | FocusExploring Network Infrastructure, Cybersecurity, and Virtualization.
   </li>
   <li>
-    ⚡ **Fun fact:** I bridge the gap between **Logic (Engineering)** and **Creativity (Digital Art)**!
+    ⚡ Fun fact | Apart from coding, I'm a passionate Artist!
   </li>
 </ul>
 
