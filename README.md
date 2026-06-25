@@ -2,9 +2,6 @@
 
 <ul>
   <li>
-    🎓 Freshman at KMUTNB Prachinburi | Information Engineering and Network (INE)
-  </li>
-  <li>
     🚀 Currently | FocusExploring Network Infrastructure, Cybersecurity, and Virtualization.
   </li>
   <li>
